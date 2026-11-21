@@ -1,0 +1,9 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "dimustech-ads-txt",
+  "main": "src/index.js",
+  "compatibility_date": "2026-11-20",
+  "observability": {
+    "enabled": true
+  }
+}
